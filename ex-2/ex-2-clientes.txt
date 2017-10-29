@@ -1,0 +1,12 @@
+joão da silva
+masculino
+26
+5000
+pedro de alcântara
+masculino
+17
+1000
+maria josefina
+feminino
+30
+10000
